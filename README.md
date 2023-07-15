@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @melkiyPatsan4ik
+- 👋 Hi, I’m @novaRay / melkiyPatsan4ik
 - 👀 I’m interested in developing games
 - 🌱 I’m currently learning c# and unity
 - 💞️ I’m looking to collaborate on same people like me who want to make indie games which will love everyone.
